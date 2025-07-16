@@ -2,12 +2,12 @@ export async function GET() {
 return Response.json([
 {
 id: 1,
-name: “Mario (TEST)”,
-phone: “07308141302”,
-email: “mario.grimsby@gmail.com”,
-city: “Grimsby”,
-specialty: “handyman”,
-availability: “available”
+name: "Mario (TEST)",
+phone: "07308141302",
+email: "mario.grimsby@gmail.com",
+city: "Grimsby",
+specialty: "handyman",
+availability: "available"
 }
 ])
 }
